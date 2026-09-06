@@ -1,0 +1,2 @@
+# This directory is reserved for trained ML model artifacts (e.g. churn_model.joblib).
+# Do not commit temporary or mock models here.
