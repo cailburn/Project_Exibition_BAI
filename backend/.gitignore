@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environment variables
+.env
+!.env.example
+
+# Local SQLite databases (if used in local testing)
+*.db
+*.sqlite3
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
