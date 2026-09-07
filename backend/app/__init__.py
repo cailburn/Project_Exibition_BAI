@@ -1,7 +1,8 @@
 import os
 from flask import Flask
 from app.config import config_by_name
-from app.extensions import cors
+from app.extensions import cors, db
+from app.models import Customer, Complaint, Prediction  # noqa: F401
 from app.routes import register_routes
 from app.utils.response import api_response
 
@@ -23,6 +24,16 @@ def create_app(config_name=None):
         resources={r"/api/*": {"origins": app.config.get("CORS_ORIGINS", "*")}},
         supports_credentials=True,
     )
+
+    # Initialize SQLAlchemy database extension
+    db.init_app(app)
+
+    # CLI command for table creation
+    @app.cli.command("init-db")
+    def init_db_command():
+        """Create database tables."""
+        db.create_all()
+        print(f"Database tables created successfully using {app.config.get('DATABASE_TYPE')} engine.")
 
     # Register API Blueprints
     register_routes(app)

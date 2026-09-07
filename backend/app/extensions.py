@@ -1,4 +1,6 @@
 from flask_cors import CORS
+from flask_sqlalchemy import SQLAlchemy
 
-# Initialize Flask-CORS instance
+# Initialize extensions
 cors = CORS()
+db = SQLAlchemy()
