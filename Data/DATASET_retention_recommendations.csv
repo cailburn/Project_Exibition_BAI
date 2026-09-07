@@ -1,0 +1,1021 @@
+recommendation_id,customer_id,recommendation_text,priority
+1,1,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+2,2,"Send personalized offers and recommend new plans to boost engagement.",Medium
+3,3,"Continue loyalty rewards and offer premium membership benefits.",Low
+4,4,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+5,5,"Send engagement notifications and highlight underused features.",Medium
+6,6,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+7,7,"Send appreciation message and exclusive early-access offers.",Low
+8,8,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+9,9,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+10,10,"Maintain loyalty program benefits; offer referral incentives.",Low
+11,11,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+12,12,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+13,13,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+14,14,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+15,15,"Targeted engagement campaign; personalized plan recommendation.",Medium
+16,16,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+17,17,"Send thank-you rewards; offer premium content access.",Low
+18,18,"Escalate unresolved complaints; offer short-term discount.",Urgent
+19,19,"Increase touchpoints via app notifications and email offers.",Medium
+20,20,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+21,21,"Send appreciation message and exclusive early-access offers.",Low
+22,22,"Maintain loyalty program benefits; offer referral incentives.",Low
+23,23,"Maintain loyalty program benefits; offer referral incentives.",Low
+24,24,"Send appreciation message and exclusive early-access offers.",Low
+25,25,"Send appreciation message and exclusive early-access offers.",Low
+26,26,"Escalate unresolved complaints; offer short-term discount.",Urgent
+27,27,"Continue loyalty rewards and offer premium membership benefits.",Low
+28,28,"Continue loyalty rewards and offer premium membership benefits.",Low
+29,29,"Send engagement notifications and highlight underused features.",Medium
+30,30,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+31,31,"Send thank-you rewards; offer premium content access.",Low
+32,32,"Continue loyalty rewards and offer premium membership benefits.",Low
+33,33,"Escalate unresolved complaints; offer short-term discount.",Urgent
+34,34,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+35,35,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+36,36,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+37,37,"Increase touchpoints via app notifications and email offers.",Medium
+38,38,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+39,39,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+40,40,"Send personalized offers and recommend new plans to boost engagement.",Medium
+41,41,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+42,42,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+43,43,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+44,44,"Targeted engagement campaign; personalized plan recommendation.",Medium
+45,45,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+46,46,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+47,47,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+48,48,"Maintain loyalty program benefits; offer referral incentives.",Low
+49,49,"Send thank-you rewards; offer premium content access.",Low
+50,50,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+51,51,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+52,52,"Send appreciation message and exclusive early-access offers.",Low
+53,53,"Send appreciation message and exclusive early-access offers.",Low
+54,54,"Send personalized offers and recommend new plans to boost engagement.",Medium
+55,55,"Send thank-you rewards; offer premium content access.",Low
+56,56,"Increase touchpoints via app notifications and email offers.",Medium
+57,57,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+58,58,"Continue loyalty rewards and offer premium membership benefits.",Low
+59,59,"Maintain loyalty program benefits; offer referral incentives.",Low
+60,60,"Send thank-you rewards; offer premium content access.",Low
+61,61,"Maintain loyalty program benefits; offer referral incentives.",Low
+62,62,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+63,63,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+64,64,"Maintain loyalty program benefits; offer referral incentives.",Low
+65,65,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+66,66,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+67,67,"Targeted engagement campaign; personalized plan recommendation.",Medium
+68,68,"Send personalized offers and recommend new plans to boost engagement.",Medium
+69,69,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+70,70,"Targeted engagement campaign; personalized plan recommendation.",Medium
+71,71,"Send engagement notifications and highlight underused features.",Medium
+72,72,"Continue loyalty rewards and offer premium membership benefits.",Low
+73,73,"Targeted engagement campaign; personalized plan recommendation.",Medium
+74,74,"Send engagement notifications and highlight underused features.",Medium
+75,75,"Increase touchpoints via app notifications and email offers.",Medium
+76,76,"Send appreciation message and exclusive early-access offers.",Low
+77,77,"Send thank-you rewards; offer premium content access.",Low
+78,78,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+79,79,"Send personalized offers and recommend new plans to boost engagement.",Medium
+80,80,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+81,81,"Send engagement notifications and highlight underused features.",Medium
+82,82,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+83,83,"Targeted engagement campaign; personalized plan recommendation.",Medium
+84,84,"Escalate unresolved complaints; offer short-term discount.",Urgent
+85,85,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+86,86,"Targeted engagement campaign; personalized plan recommendation.",Medium
+87,87,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+88,88,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+89,89,"Maintain loyalty program benefits; offer referral incentives.",Low
+90,90,"Send thank-you rewards; offer premium content access.",Low
+91,91,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+92,92,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+93,93,"Targeted engagement campaign; personalized plan recommendation.",Medium
+94,94,"Increase touchpoints via app notifications and email offers.",Medium
+95,95,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+96,96,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+97,97,"Targeted engagement campaign; personalized plan recommendation.",Medium
+98,98,"Continue loyalty rewards and offer premium membership benefits.",Low
+99,99,"Send thank-you rewards; offer premium content access.",Low
+100,100,"Continue loyalty rewards and offer premium membership benefits.",Low
+101,101,"Continue loyalty rewards and offer premium membership benefits.",Low
+102,102,"Send personalized offers and recommend new plans to boost engagement.",Medium
+103,103,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+104,104,"Send personalized offers and recommend new plans to boost engagement.",Medium
+105,105,"Send thank-you rewards; offer premium content access.",Low
+106,106,"Increase touchpoints via app notifications and email offers.",Medium
+107,107,"Increase touchpoints via app notifications and email offers.",Medium
+108,108,"Continue loyalty rewards and offer premium membership benefits.",Low
+109,109,"Escalate unresolved complaints; offer short-term discount.",Urgent
+110,110,"Increase touchpoints via app notifications and email offers.",Medium
+111,111,"Send engagement notifications and highlight underused features.",Medium
+112,112,"Targeted engagement campaign; personalized plan recommendation.",Medium
+113,113,"Send thank-you rewards; offer premium content access.",Low
+114,114,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+115,115,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+116,116,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+117,117,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+118,118,"Send appreciation message and exclusive early-access offers.",Low
+119,119,"Maintain loyalty program benefits; offer referral incentives.",Low
+120,120,"Increase touchpoints via app notifications and email offers.",Medium
+121,121,"Send engagement notifications and highlight underused features.",Medium
+122,122,"Send thank-you rewards; offer premium content access.",Low
+123,123,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+124,124,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+125,125,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+126,126,"Targeted engagement campaign; personalized plan recommendation.",Medium
+127,127,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+128,128,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+129,129,"Send engagement notifications and highlight underused features.",Medium
+130,130,"Targeted engagement campaign; personalized plan recommendation.",Medium
+131,131,"Maintain loyalty program benefits; offer referral incentives.",Low
+132,132,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+133,133,"Continue loyalty rewards and offer premium membership benefits.",Low
+134,134,"Send personalized offers and recommend new plans to boost engagement.",Medium
+135,135,"Continue loyalty rewards and offer premium membership benefits.",Low
+136,136,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+137,137,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+138,138,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+139,139,"Continue loyalty rewards and offer premium membership benefits.",Low
+140,140,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+141,141,"Send appreciation message and exclusive early-access offers.",Low
+142,142,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+143,143,"Increase touchpoints via app notifications and email offers.",Medium
+144,144,"Continue loyalty rewards and offer premium membership benefits.",Low
+145,145,"Send engagement notifications and highlight underused features.",Medium
+146,146,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+147,147,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+148,148,"Send appreciation message and exclusive early-access offers.",Low
+149,149,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+150,150,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+151,151,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+152,152,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+153,153,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+154,154,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+155,155,"Maintain loyalty program benefits; offer referral incentives.",Low
+156,156,"Targeted engagement campaign; personalized plan recommendation.",Medium
+157,157,"Continue loyalty rewards and offer premium membership benefits.",Low
+158,158,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+159,159,"Increase touchpoints via app notifications and email offers.",Medium
+160,160,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+161,161,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+162,162,"Send thank-you rewards; offer premium content access.",Low
+163,163,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+164,164,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+165,165,"Send thank-you rewards; offer premium content access.",Low
+166,166,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+167,167,"Targeted engagement campaign; personalized plan recommendation.",Medium
+168,168,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+169,169,"Continue loyalty rewards and offer premium membership benefits.",Low
+170,170,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+171,171,"Increase touchpoints via app notifications and email offers.",Medium
+172,172,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+173,173,"Send engagement notifications and highlight underused features.",Medium
+174,174,"Send engagement notifications and highlight underused features.",Medium
+175,175,"Send appreciation message and exclusive early-access offers.",Low
+176,176,"Maintain loyalty program benefits; offer referral incentives.",Low
+177,177,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+178,178,"Targeted engagement campaign; personalized plan recommendation.",Medium
+179,179,"Send appreciation message and exclusive early-access offers.",Low
+180,180,"Send appreciation message and exclusive early-access offers.",Low
+181,181,"Send personalized offers and recommend new plans to boost engagement.",Medium
+182,182,"Send appreciation message and exclusive early-access offers.",Low
+183,183,"Send appreciation message and exclusive early-access offers.",Low
+184,184,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+185,185,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+186,186,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+187,187,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+188,188,"Maintain loyalty program benefits; offer referral incentives.",Low
+189,189,"Send engagement notifications and highlight underused features.",Medium
+190,190,"Continue loyalty rewards and offer premium membership benefits.",Low
+191,191,"Escalate unresolved complaints; offer short-term discount.",Urgent
+192,192,"Send appreciation message and exclusive early-access offers.",Low
+193,193,"Increase touchpoints via app notifications and email offers.",Medium
+194,194,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+195,195,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+196,196,"Increase touchpoints via app notifications and email offers.",Medium
+197,197,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+198,198,"Maintain loyalty program benefits; offer referral incentives.",Low
+199,199,"Continue loyalty rewards and offer premium membership benefits.",Low
+200,200,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+201,201,"Send appreciation message and exclusive early-access offers.",Low
+202,202,"Send engagement notifications and highlight underused features.",Medium
+203,203,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+204,204,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+205,205,"Send personalized offers and recommend new plans to boost engagement.",Medium
+206,206,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+207,207,"Continue loyalty rewards and offer premium membership benefits.",Low
+208,208,"Increase touchpoints via app notifications and email offers.",Medium
+209,209,"Continue loyalty rewards and offer premium membership benefits.",Low
+210,210,"Continue loyalty rewards and offer premium membership benefits.",Low
+211,211,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+212,212,"Send engagement notifications and highlight underused features.",Medium
+213,213,"Targeted engagement campaign; personalized plan recommendation.",Medium
+214,214,"Send personalized offers and recommend new plans to boost engagement.",Medium
+215,215,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+216,216,"Targeted engagement campaign; personalized plan recommendation.",Medium
+217,217,"Send appreciation message and exclusive early-access offers.",Low
+218,218,"Send thank-you rewards; offer premium content access.",Low
+219,219,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+220,220,"Send thank-you rewards; offer premium content access.",Low
+221,221,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+222,222,"Send personalized offers and recommend new plans to boost engagement.",Medium
+223,223,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+224,224,"Maintain loyalty program benefits; offer referral incentives.",Low
+225,225,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+226,226,"Increase touchpoints via app notifications and email offers.",Medium
+227,227,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+228,228,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+229,229,"Escalate unresolved complaints; offer short-term discount.",Urgent
+230,230,"Send thank-you rewards; offer premium content access.",Low
+231,231,"Escalate unresolved complaints; offer short-term discount.",Urgent
+232,232,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+233,233,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+234,234,"Send thank-you rewards; offer premium content access.",Low
+235,235,"Increase touchpoints via app notifications and email offers.",Medium
+236,236,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+237,237,"Continue loyalty rewards and offer premium membership benefits.",Low
+238,238,"Send personalized offers and recommend new plans to boost engagement.",Medium
+239,239,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+240,240,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+241,241,"Maintain loyalty program benefits; offer referral incentives.",Low
+242,242,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+243,243,"Send engagement notifications and highlight underused features.",Medium
+244,244,"Maintain loyalty program benefits; offer referral incentives.",Low
+245,245,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+246,246,"Targeted engagement campaign; personalized plan recommendation.",Medium
+247,247,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+248,248,"Send personalized offers and recommend new plans to boost engagement.",Medium
+249,249,"Send appreciation message and exclusive early-access offers.",Low
+250,250,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+251,251,"Maintain loyalty program benefits; offer referral incentives.",Low
+252,252,"Send engagement notifications and highlight underused features.",Medium
+253,253,"Maintain loyalty program benefits; offer referral incentives.",Low
+254,254,"Send personalized offers and recommend new plans to boost engagement.",Medium
+255,255,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+256,256,"Maintain loyalty program benefits; offer referral incentives.",Low
+257,257,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+258,258,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+259,259,"Maintain loyalty program benefits; offer referral incentives.",Low
+260,260,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+261,261,"Maintain loyalty program benefits; offer referral incentives.",Low
+262,262,"Increase touchpoints via app notifications and email offers.",Medium
+263,263,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+264,264,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+265,265,"Send engagement notifications and highlight underused features.",Medium
+266,266,"Send thank-you rewards; offer premium content access.",Low
+267,267,"Targeted engagement campaign; personalized plan recommendation.",Medium
+268,268,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+269,269,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+270,270,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+271,271,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+272,272,"Continue loyalty rewards and offer premium membership benefits.",Low
+273,273,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+274,274,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+275,275,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+276,276,"Continue loyalty rewards and offer premium membership benefits.",Low
+277,277,"Targeted engagement campaign; personalized plan recommendation.",Medium
+278,278,"Maintain loyalty program benefits; offer referral incentives.",Low
+279,279,"Maintain loyalty program benefits; offer referral incentives.",Low
+280,280,"Send personalized offers and recommend new plans to boost engagement.",Medium
+281,281,"Escalate unresolved complaints; offer short-term discount.",Urgent
+282,282,"Send appreciation message and exclusive early-access offers.",Low
+283,283,"Escalate unresolved complaints; offer short-term discount.",Urgent
+284,284,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+285,285,"Send appreciation message and exclusive early-access offers.",Low
+286,286,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+287,287,"Send appreciation message and exclusive early-access offers.",Low
+288,288,"Send appreciation message and exclusive early-access offers.",Low
+289,289,"Increase touchpoints via app notifications and email offers.",Medium
+290,290,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+291,291,"Send thank-you rewards; offer premium content access.",Low
+292,292,"Targeted engagement campaign; personalized plan recommendation.",Medium
+293,293,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+294,294,"Continue loyalty rewards and offer premium membership benefits.",Low
+295,295,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+296,296,"Send appreciation message and exclusive early-access offers.",Low
+297,297,"Send personalized offers and recommend new plans to boost engagement.",Medium
+298,298,"Maintain loyalty program benefits; offer referral incentives.",Low
+299,299,"Targeted engagement campaign; personalized plan recommendation.",Medium
+300,300,"Send thank-you rewards; offer premium content access.",Low
+301,301,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+302,302,"Continue loyalty rewards and offer premium membership benefits.",Low
+303,303,"Maintain loyalty program benefits; offer referral incentives.",Low
+304,304,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+305,305,"Escalate unresolved complaints; offer short-term discount.",Urgent
+306,306,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+307,307,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+308,308,"Send appreciation message and exclusive early-access offers.",Low
+309,309,"Maintain loyalty program benefits; offer referral incentives.",Low
+310,310,"Send appreciation message and exclusive early-access offers.",Low
+311,311,"Continue loyalty rewards and offer premium membership benefits.",Low
+312,312,"Continue loyalty rewards and offer premium membership benefits.",Low
+313,313,"Send engagement notifications and highlight underused features.",Medium
+314,314,"Send engagement notifications and highlight underused features.",Medium
+315,315,"Send personalized offers and recommend new plans to boost engagement.",Medium
+316,316,"Send engagement notifications and highlight underused features.",Medium
+317,317,"Send thank-you rewards; offer premium content access.",Low
+318,318,"Targeted engagement campaign; personalized plan recommendation.",Medium
+319,319,"Targeted engagement campaign; personalized plan recommendation.",Medium
+320,320,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+321,321,"Maintain loyalty program benefits; offer referral incentives.",Low
+322,322,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+323,323,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+324,324,"Send thank-you rewards; offer premium content access.",Low
+325,325,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+326,326,"Send thank-you rewards; offer premium content access.",Low
+327,327,"Maintain loyalty program benefits; offer referral incentives.",Low
+328,328,"Send engagement notifications and highlight underused features.",Medium
+329,329,"Send thank-you rewards; offer premium content access.",Low
+330,330,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+331,331,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+332,332,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+333,333,"Continue loyalty rewards and offer premium membership benefits.",Low
+334,334,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+335,335,"Continue loyalty rewards and offer premium membership benefits.",Low
+336,336,"Targeted engagement campaign; personalized plan recommendation.",Medium
+337,337,"Send appreciation message and exclusive early-access offers.",Low
+338,338,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+339,339,"Continue loyalty rewards and offer premium membership benefits.",Low
+340,340,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+341,341,"Send thank-you rewards; offer premium content access.",Low
+342,342,"Continue loyalty rewards and offer premium membership benefits.",Low
+343,343,"Targeted engagement campaign; personalized plan recommendation.",Medium
+344,344,"Send engagement notifications and highlight underused features.",Medium
+345,345,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+346,346,"Send thank-you rewards; offer premium content access.",Low
+347,347,"Maintain loyalty program benefits; offer referral incentives.",Low
+348,348,"Send thank-you rewards; offer premium content access.",Low
+349,349,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+350,350,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+351,351,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+352,352,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+353,353,"Send thank-you rewards; offer premium content access.",Low
+354,354,"Send appreciation message and exclusive early-access offers.",Low
+355,355,"Send thank-you rewards; offer premium content access.",Low
+356,356,"Send engagement notifications and highlight underused features.",Medium
+357,357,"Maintain loyalty program benefits; offer referral incentives.",Low
+358,358,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+359,359,"Increase touchpoints via app notifications and email offers.",Medium
+360,360,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+361,361,"Send engagement notifications and highlight underused features.",Medium
+362,362,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+363,363,"Send engagement notifications and highlight underused features.",Medium
+364,364,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+365,365,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+366,366,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+367,367,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+368,368,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+369,369,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+370,370,"Continue loyalty rewards and offer premium membership benefits.",Low
+371,371,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+372,372,"Continue loyalty rewards and offer premium membership benefits.",Low
+373,373,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+374,374,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+375,375,"Increase touchpoints via app notifications and email offers.",Medium
+376,376,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+377,377,"Send appreciation message and exclusive early-access offers.",Low
+378,378,"Send appreciation message and exclusive early-access offers.",Low
+379,379,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+380,380,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+381,381,"Send appreciation message and exclusive early-access offers.",Low
+382,382,"Send personalized offers and recommend new plans to boost engagement.",Medium
+383,383,"Continue loyalty rewards and offer premium membership benefits.",Low
+384,384,"Escalate unresolved complaints; offer short-term discount.",Urgent
+385,385,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+386,386,"Maintain loyalty program benefits; offer referral incentives.",Low
+387,387,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+388,388,"Send thank-you rewards; offer premium content access.",Low
+389,389,"Send engagement notifications and highlight underused features.",Medium
+390,390,"Send engagement notifications and highlight underused features.",Medium
+391,391,"Send personalized offers and recommend new plans to boost engagement.",Medium
+392,392,"Send thank-you rewards; offer premium content access.",Low
+393,393,"Maintain loyalty program benefits; offer referral incentives.",Low
+394,394,"Maintain loyalty program benefits; offer referral incentives.",Low
+395,395,"Targeted engagement campaign; personalized plan recommendation.",Medium
+396,396,"Send personalized offers and recommend new plans to boost engagement.",Medium
+397,397,"Escalate unresolved complaints; offer short-term discount.",Urgent
+398,398,"Send thank-you rewards; offer premium content access.",Low
+399,399,"Send appreciation message and exclusive early-access offers.",Low
+400,400,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+401,401,"Send appreciation message and exclusive early-access offers.",Low
+402,402,"Escalate unresolved complaints; offer short-term discount.",Urgent
+403,403,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+404,404,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+405,405,"Maintain loyalty program benefits; offer referral incentives.",Low
+406,406,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+407,407,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+408,408,"Send engagement notifications and highlight underused features.",Medium
+409,409,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+410,410,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+411,411,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+412,412,"Increase touchpoints via app notifications and email offers.",Medium
+413,413,"Maintain loyalty program benefits; offer referral incentives.",Low
+414,414,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+415,415,"Send thank-you rewards; offer premium content access.",Low
+416,416,"Send engagement notifications and highlight underused features.",Medium
+417,417,"Continue loyalty rewards and offer premium membership benefits.",Low
+418,418,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+419,419,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+420,420,"Targeted engagement campaign; personalized plan recommendation.",Medium
+421,421,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+422,422,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+423,423,"Send engagement notifications and highlight underused features.",Medium
+424,424,"Targeted engagement campaign; personalized plan recommendation.",Medium
+425,425,"Send thank-you rewards; offer premium content access.",Low
+426,426,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+427,427,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+428,428,"Send engagement notifications and highlight underused features.",Medium
+429,429,"Escalate unresolved complaints; offer short-term discount.",Urgent
+430,430,"Targeted engagement campaign; personalized plan recommendation.",Medium
+431,431,"Continue loyalty rewards and offer premium membership benefits.",Low
+432,432,"Increase touchpoints via app notifications and email offers.",Medium
+433,433,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+434,434,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+435,435,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+436,436,"Maintain loyalty program benefits; offer referral incentives.",Low
+437,437,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+438,438,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+439,439,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+440,440,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+441,441,"Send personalized offers and recommend new plans to boost engagement.",Medium
+442,442,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+443,443,"Send thank-you rewards; offer premium content access.",Low
+444,444,"Send engagement notifications and highlight underused features.",Medium
+445,445,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+446,446,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+447,447,"Maintain loyalty program benefits; offer referral incentives.",Low
+448,448,"Increase touchpoints via app notifications and email offers.",Medium
+449,449,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+450,450,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+451,451,"Maintain loyalty program benefits; offer referral incentives.",Low
+452,452,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+453,453,"Targeted engagement campaign; personalized plan recommendation.",Medium
+454,454,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+455,455,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+456,456,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+457,457,"Send personalized offers and recommend new plans to boost engagement.",Medium
+458,458,"Maintain loyalty program benefits; offer referral incentives.",Low
+459,459,"Send personalized offers and recommend new plans to boost engagement.",Medium
+460,460,"Targeted engagement campaign; personalized plan recommendation.",Medium
+461,461,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+462,462,"Send engagement notifications and highlight underused features.",Medium
+463,463,"Send thank-you rewards; offer premium content access.",Low
+464,464,"Send personalized offers and recommend new plans to boost engagement.",Medium
+465,465,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+466,466,"Escalate unresolved complaints; offer short-term discount.",Urgent
+467,467,"Increase touchpoints via app notifications and email offers.",Medium
+468,468,"Maintain loyalty program benefits; offer referral incentives.",Low
+469,469,"Send engagement notifications and highlight underused features.",Medium
+470,470,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+471,471,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+472,472,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+473,473,"Targeted engagement campaign; personalized plan recommendation.",Medium
+474,474,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+475,475,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+476,476,"Continue loyalty rewards and offer premium membership benefits.",Low
+477,477,"Send engagement notifications and highlight underused features.",Medium
+478,478,"Maintain loyalty program benefits; offer referral incentives.",Low
+479,479,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+480,480,"Continue loyalty rewards and offer premium membership benefits.",Low
+481,481,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+482,482,"Increase touchpoints via app notifications and email offers.",Medium
+483,483,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+484,484,"Send appreciation message and exclusive early-access offers.",Low
+485,485,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+486,486,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+487,487,"Escalate unresolved complaints; offer short-term discount.",Urgent
+488,488,"Increase touchpoints via app notifications and email offers.",Medium
+489,489,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+490,490,"Increase touchpoints via app notifications and email offers.",Medium
+491,491,"Send personalized offers and recommend new plans to boost engagement.",Medium
+492,492,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+493,493,"Continue loyalty rewards and offer premium membership benefits.",Low
+494,494,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+495,495,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+496,496,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+497,497,"Send engagement notifications and highlight underused features.",Medium
+498,498,"Send personalized offers and recommend new plans to boost engagement.",Medium
+499,499,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+500,500,"Send engagement notifications and highlight underused features.",Medium
+501,501,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+502,502,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+503,503,"Continue loyalty rewards and offer premium membership benefits.",Low
+504,504,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+505,505,"Maintain loyalty program benefits; offer referral incentives.",Low
+506,506,"Continue loyalty rewards and offer premium membership benefits.",Low
+507,507,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+508,508,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+509,509,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+510,510,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+511,511,"Continue loyalty rewards and offer premium membership benefits.",Low
+512,512,"Maintain loyalty program benefits; offer referral incentives.",Low
+513,513,"Maintain loyalty program benefits; offer referral incentives.",Low
+514,514,"Increase touchpoints via app notifications and email offers.",Medium
+515,515,"Maintain loyalty program benefits; offer referral incentives.",Low
+516,516,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+517,517,"Send engagement notifications and highlight underused features.",Medium
+518,518,"Send personalized offers and recommend new plans to boost engagement.",Medium
+519,519,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+520,520,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+521,521,"Targeted engagement campaign; personalized plan recommendation.",Medium
+522,522,"Targeted engagement campaign; personalized plan recommendation.",Medium
+523,523,"Send personalized offers and recommend new plans to boost engagement.",Medium
+524,524,"Targeted engagement campaign; personalized plan recommendation.",Medium
+525,525,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+526,526,"Send personalized offers and recommend new plans to boost engagement.",Medium
+527,527,"Increase touchpoints via app notifications and email offers.",Medium
+528,528,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+529,529,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+530,530,"Send appreciation message and exclusive early-access offers.",Low
+531,531,"Continue loyalty rewards and offer premium membership benefits.",Low
+532,532,"Send appreciation message and exclusive early-access offers.",Low
+533,533,"Targeted engagement campaign; personalized plan recommendation.",Medium
+534,534,"Increase touchpoints via app notifications and email offers.",Medium
+535,535,"Send engagement notifications and highlight underused features.",Medium
+536,536,"Send appreciation message and exclusive early-access offers.",Low
+537,537,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+538,538,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+539,539,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+540,540,"Send thank-you rewards; offer premium content access.",Low
+541,541,"Send personalized offers and recommend new plans to boost engagement.",Medium
+542,542,"Send appreciation message and exclusive early-access offers.",Low
+543,543,"Increase touchpoints via app notifications and email offers.",Medium
+544,544,"Targeted engagement campaign; personalized plan recommendation.",Medium
+545,545,"Send personalized offers and recommend new plans to boost engagement.",Medium
+546,546,"Send appreciation message and exclusive early-access offers.",Low
+547,547,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+548,548,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+549,549,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+550,550,"Send appreciation message and exclusive early-access offers.",Low
+551,551,"Continue loyalty rewards and offer premium membership benefits.",Low
+552,552,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+553,553,"Maintain loyalty program benefits; offer referral incentives.",Low
+554,554,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+555,555,"Send appreciation message and exclusive early-access offers.",Low
+556,556,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+557,557,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+558,558,"Continue loyalty rewards and offer premium membership benefits.",Low
+559,559,"Targeted engagement campaign; personalized plan recommendation.",Medium
+560,560,"Continue loyalty rewards and offer premium membership benefits.",Low
+561,561,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+562,562,"Maintain loyalty program benefits; offer referral incentives.",Low
+563,563,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+564,564,"Targeted engagement campaign; personalized plan recommendation.",Medium
+565,565,"Send appreciation message and exclusive early-access offers.",Low
+566,566,"Send appreciation message and exclusive early-access offers.",Low
+567,567,"Send thank-you rewards; offer premium content access.",Low
+568,568,"Targeted engagement campaign; personalized plan recommendation.",Medium
+569,569,"Send engagement notifications and highlight underused features.",Medium
+570,570,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+571,571,"Send thank-you rewards; offer premium content access.",Low
+572,572,"Send appreciation message and exclusive early-access offers.",Low
+573,573,"Send appreciation message and exclusive early-access offers.",Low
+574,574,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+575,575,"Send personalized offers and recommend new plans to boost engagement.",Medium
+576,576,"Targeted engagement campaign; personalized plan recommendation.",Medium
+577,577,"Increase touchpoints via app notifications and email offers.",Medium
+578,578,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+579,579,"Increase touchpoints via app notifications and email offers.",Medium
+580,580,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+581,581,"Increase touchpoints via app notifications and email offers.",Medium
+582,582,"Increase touchpoints via app notifications and email offers.",Medium
+583,583,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+584,584,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+585,585,"Increase touchpoints via app notifications and email offers.",Medium
+586,586,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+587,587,"Continue loyalty rewards and offer premium membership benefits.",Low
+588,588,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+589,589,"Send thank-you rewards; offer premium content access.",Low
+590,590,"Send thank-you rewards; offer premium content access.",Low
+591,591,"Send engagement notifications and highlight underused features.",Medium
+592,592,"Targeted engagement campaign; personalized plan recommendation.",Medium
+593,593,"Targeted engagement campaign; personalized plan recommendation.",Medium
+594,594,"Continue loyalty rewards and offer premium membership benefits.",Low
+595,595,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+596,596,"Targeted engagement campaign; personalized plan recommendation.",Medium
+597,597,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+598,598,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+599,599,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+600,600,"Continue loyalty rewards and offer premium membership benefits.",Low
+601,601,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+602,602,"Send appreciation message and exclusive early-access offers.",Low
+603,603,"Targeted engagement campaign; personalized plan recommendation.",Medium
+604,604,"Increase touchpoints via app notifications and email offers.",Medium
+605,605,"Escalate unresolved complaints; offer short-term discount.",Urgent
+606,606,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+607,607,"Targeted engagement campaign; personalized plan recommendation.",Medium
+608,608,"Send thank-you rewards; offer premium content access.",Low
+609,609,"Continue loyalty rewards and offer premium membership benefits.",Low
+610,610,"Send engagement notifications and highlight underused features.",Medium
+611,611,"Send thank-you rewards; offer premium content access.",Low
+612,612,"Send appreciation message and exclusive early-access offers.",Low
+613,613,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+614,614,"Send personalized offers and recommend new plans to boost engagement.",Medium
+615,615,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+616,616,"Send appreciation message and exclusive early-access offers.",Low
+617,617,"Increase touchpoints via app notifications and email offers.",Medium
+618,618,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+619,619,"Send thank-you rewards; offer premium content access.",Low
+620,620,"Increase touchpoints via app notifications and email offers.",Medium
+621,621,"Continue loyalty rewards and offer premium membership benefits.",Low
+622,622,"Send personalized offers and recommend new plans to boost engagement.",Medium
+623,623,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+624,624,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+625,625,"Send engagement notifications and highlight underused features.",Medium
+626,626,"Send appreciation message and exclusive early-access offers.",Low
+627,627,"Continue loyalty rewards and offer premium membership benefits.",Low
+628,628,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+629,629,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+630,630,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+631,631,"Send thank-you rewards; offer premium content access.",Low
+632,632,"Increase touchpoints via app notifications and email offers.",Medium
+633,633,"Continue loyalty rewards and offer premium membership benefits.",Low
+634,634,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+635,635,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+636,636,"Continue loyalty rewards and offer premium membership benefits.",Low
+637,637,"Increase touchpoints via app notifications and email offers.",Medium
+638,638,"Send engagement notifications and highlight underused features.",Medium
+639,639,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+640,640,"Send engagement notifications and highlight underused features.",Medium
+641,641,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+642,642,"Continue loyalty rewards and offer premium membership benefits.",Low
+643,643,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+644,644,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+645,645,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+646,646,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+647,647,"Send appreciation message and exclusive early-access offers.",Low
+648,648,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+649,649,"Escalate unresolved complaints; offer short-term discount.",Urgent
+650,650,"Continue loyalty rewards and offer premium membership benefits.",Low
+651,651,"Targeted engagement campaign; personalized plan recommendation.",Medium
+652,652,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+653,653,"Increase touchpoints via app notifications and email offers.",Medium
+654,654,"Send personalized offers and recommend new plans to boost engagement.",Medium
+655,655,"Send appreciation message and exclusive early-access offers.",Low
+656,656,"Increase touchpoints via app notifications and email offers.",Medium
+657,657,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+658,658,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+659,659,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+660,660,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+661,661,"Send engagement notifications and highlight underused features.",Medium
+662,662,"Send thank-you rewards; offer premium content access.",Low
+663,663,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+664,664,"Continue loyalty rewards and offer premium membership benefits.",Low
+665,665,"Increase touchpoints via app notifications and email offers.",Medium
+666,666,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+667,667,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+668,668,"Send appreciation message and exclusive early-access offers.",Low
+669,669,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+670,670,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+671,671,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+672,672,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+673,673,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+674,674,"Escalate unresolved complaints; offer short-term discount.",Urgent
+675,675,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+676,676,"Escalate unresolved complaints; offer short-term discount.",Urgent
+677,677,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+678,678,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+679,679,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+680,680,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+681,681,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+682,682,"Send appreciation message and exclusive early-access offers.",Low
+683,683,"Send thank-you rewards; offer premium content access.",Low
+684,684,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+685,685,"Send thank-you rewards; offer premium content access.",Low
+686,686,"Increase touchpoints via app notifications and email offers.",Medium
+687,687,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+688,688,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+689,689,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+690,690,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+691,691,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+692,692,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+693,693,"Send thank-you rewards; offer premium content access.",Low
+694,694,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+695,695,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+696,696,"Send thank-you rewards; offer premium content access.",Low
+697,697,"Send engagement notifications and highlight underused features.",Medium
+698,698,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+699,699,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+700,700,"Targeted engagement campaign; personalized plan recommendation.",Medium
+701,701,"Targeted engagement campaign; personalized plan recommendation.",Medium
+702,702,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+703,703,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+704,704,"Increase touchpoints via app notifications and email offers.",Medium
+705,705,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+706,706,"Send thank-you rewards; offer premium content access.",Low
+707,707,"Maintain loyalty program benefits; offer referral incentives.",Low
+708,708,"Send appreciation message and exclusive early-access offers.",Low
+709,709,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+710,710,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+711,711,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+712,712,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+713,713,"Increase touchpoints via app notifications and email offers.",Medium
+714,714,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+715,715,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+716,716,"Send appreciation message and exclusive early-access offers.",Low
+717,717,"Send engagement notifications and highlight underused features.",Medium
+718,718,"Targeted engagement campaign; personalized plan recommendation.",Medium
+719,719,"Send thank-you rewards; offer premium content access.",Low
+720,720,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+721,721,"Continue loyalty rewards and offer premium membership benefits.",Low
+722,722,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+723,723,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+724,724,"Continue loyalty rewards and offer premium membership benefits.",Low
+725,725,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+726,726,"Increase touchpoints via app notifications and email offers.",Medium
+727,727,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+728,728,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+729,729,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+730,730,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+731,731,"Continue loyalty rewards and offer premium membership benefits.",Low
+732,732,"Targeted engagement campaign; personalized plan recommendation.",Medium
+733,733,"Send appreciation message and exclusive early-access offers.",Low
+734,734,"Maintain loyalty program benefits; offer referral incentives.",Low
+735,735,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+736,736,"Send thank-you rewards; offer premium content access.",Low
+737,737,"Increase touchpoints via app notifications and email offers.",Medium
+738,738,"Send appreciation message and exclusive early-access offers.",Low
+739,739,"Continue loyalty rewards and offer premium membership benefits.",Low
+740,740,"Increase touchpoints via app notifications and email offers.",Medium
+741,741,"Maintain loyalty program benefits; offer referral incentives.",Low
+742,742,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+743,743,"Continue loyalty rewards and offer premium membership benefits.",Low
+744,744,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+745,745,"Send personalized offers and recommend new plans to boost engagement.",Medium
+746,746,"Maintain loyalty program benefits; offer referral incentives.",Low
+747,747,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+748,748,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+749,749,"Send thank-you rewards; offer premium content access.",Low
+750,750,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+751,751,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+752,752,"Send personalized offers and recommend new plans to boost engagement.",Medium
+753,753,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+754,754,"Increase touchpoints via app notifications and email offers.",Medium
+755,755,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+756,756,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+757,757,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+758,758,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+759,759,"Send thank-you rewards; offer premium content access.",Low
+760,760,"Increase touchpoints via app notifications and email offers.",Medium
+761,761,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+762,762,"Send thank-you rewards; offer premium content access.",Low
+763,763,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+764,764,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+765,765,"Send personalized offers and recommend new plans to boost engagement.",Medium
+766,766,"Send appreciation message and exclusive early-access offers.",Low
+767,767,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+768,768,"Escalate unresolved complaints; offer short-term discount.",Urgent
+769,769,"Increase touchpoints via app notifications and email offers.",Medium
+770,770,"Send thank-you rewards; offer premium content access.",Low
+771,771,"Send engagement notifications and highlight underused features.",Medium
+772,772,"Send engagement notifications and highlight underused features.",Medium
+773,773,"Send thank-you rewards; offer premium content access.",Low
+774,774,"Escalate unresolved complaints; offer short-term discount.",Urgent
+775,775,"Send engagement notifications and highlight underused features.",Medium
+776,776,"Send appreciation message and exclusive early-access offers.",Low
+777,777,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+778,778,"Send engagement notifications and highlight underused features.",Medium
+779,779,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+780,780,"Increase touchpoints via app notifications and email offers.",Medium
+781,781,"Escalate unresolved complaints; offer short-term discount.",Urgent
+782,782,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+783,783,"Send engagement notifications and highlight underused features.",Medium
+784,784,"Increase touchpoints via app notifications and email offers.",Medium
+785,785,"Increase touchpoints via app notifications and email offers.",Medium
+786,786,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+787,787,"Maintain loyalty program benefits; offer referral incentives.",Low
+788,788,"Targeted engagement campaign; personalized plan recommendation.",Medium
+789,789,"Continue loyalty rewards and offer premium membership benefits.",Low
+790,790,"Continue loyalty rewards and offer premium membership benefits.",Low
+791,791,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+792,792,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+793,793,"Send appreciation message and exclusive early-access offers.",Low
+794,794,"Maintain loyalty program benefits; offer referral incentives.",Low
+795,795,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+796,796,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+797,797,"Send appreciation message and exclusive early-access offers.",Low
+798,798,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+799,799,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+800,800,"Increase touchpoints via app notifications and email offers.",Medium
+801,801,"Continue loyalty rewards and offer premium membership benefits.",Low
+802,802,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+803,803,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+804,804,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+805,805,"Increase touchpoints via app notifications and email offers.",Medium
+806,806,"Send appreciation message and exclusive early-access offers.",Low
+807,807,"Increase touchpoints via app notifications and email offers.",Medium
+808,808,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+809,809,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+810,810,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+811,811,"Increase touchpoints via app notifications and email offers.",Medium
+812,812,"Maintain loyalty program benefits; offer referral incentives.",Low
+813,813,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+814,814,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+815,815,"Continue loyalty rewards and offer premium membership benefits.",Low
+816,816,"Send appreciation message and exclusive early-access offers.",Low
+817,817,"Escalate unresolved complaints; offer short-term discount.",Urgent
+818,818,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+819,819,"Maintain loyalty program benefits; offer referral incentives.",Low
+820,820,"Send engagement notifications and highlight underused features.",Medium
+821,821,"Send appreciation message and exclusive early-access offers.",Low
+822,822,"Targeted engagement campaign; personalized plan recommendation.",Medium
+823,823,"Targeted engagement campaign; personalized plan recommendation.",Medium
+824,824,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+825,825,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+826,826,"Send thank-you rewards; offer premium content access.",Low
+827,827,"Send thank-you rewards; offer premium content access.",Low
+828,828,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+829,829,"Continue loyalty rewards and offer premium membership benefits.",Low
+830,830,"Send thank-you rewards; offer premium content access.",Low
+831,831,"Send personalized offers and recommend new plans to boost engagement.",Medium
+832,832,"Escalate unresolved complaints; offer short-term discount.",Urgent
+833,833,"Send thank-you rewards; offer premium content access.",Low
+834,834,"Continue loyalty rewards and offer premium membership benefits.",Low
+835,835,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+836,836,"Maintain loyalty program benefits; offer referral incentives.",Low
+837,837,"Continue loyalty rewards and offer premium membership benefits.",Low
+838,838,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+839,839,"Targeted engagement campaign; personalized plan recommendation.",Medium
+840,840,"Continue loyalty rewards and offer premium membership benefits.",Low
+841,841,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+842,842,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+843,843,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+844,844,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+845,845,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+846,846,"Increase touchpoints via app notifications and email offers.",Medium
+847,847,"Send personalized offers and recommend new plans to boost engagement.",Medium
+848,848,"Send engagement notifications and highlight underused features.",Medium
+849,849,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+850,850,"Targeted engagement campaign; personalized plan recommendation.",Medium
+851,851,"Send engagement notifications and highlight underused features.",Medium
+852,852,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+853,853,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+854,854,"Continue loyalty rewards and offer premium membership benefits.",Low
+855,855,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+856,856,"Maintain loyalty program benefits; offer referral incentives.",Low
+857,857,"Send thank-you rewards; offer premium content access.",Low
+858,858,"Send appreciation message and exclusive early-access offers.",Low
+859,859,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+860,860,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+861,861,"Send engagement notifications and highlight underused features.",Medium
+862,862,"Send appreciation message and exclusive early-access offers.",Low
+863,863,"Send personalized offers and recommend new plans to boost engagement.",Medium
+864,864,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+865,865,"Send appreciation message and exclusive early-access offers.",Low
+866,866,"Immediate retention call; free trial of premium plan to rebuild trust.",Urgent
+867,867,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+868,868,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+869,869,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+870,870,"Send personalized offers and recommend new plans to boost engagement.",Medium
+871,871,"Send appreciation message and exclusive early-access offers.",Low
+872,872,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+873,873,"Targeted engagement campaign; personalized plan recommendation.",Medium
+874,874,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+875,875,"Send appreciation message and exclusive early-access offers.",Low
+876,876,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+877,877,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+878,878,"Send appreciation message and exclusive early-access offers.",Low
+879,879,"Increase touchpoints via app notifications and email offers.",Medium
+880,880,"Increase touchpoints via app notifications and email offers.",Medium
+881,881,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+882,882,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+883,883,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+884,884,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+885,885,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+886,886,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+887,887,"Escalate unresolved complaints; offer short-term discount.",Urgent
+888,888,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+889,889,"Targeted engagement campaign; personalized plan recommendation.",Medium
+890,890,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+891,891,"Send thank-you rewards; offer premium content access.",Low
+892,892,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+893,893,"Targeted engagement campaign; personalized plan recommendation.",Medium
+894,894,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+895,895,"Send thank-you rewards; offer premium content access.",Low
+896,896,"Continue loyalty rewards and offer premium membership benefits.",Low
+897,897,"Maintain loyalty program benefits; offer referral incentives.",Low
+898,898,"Send thank-you rewards; offer premium content access.",Low
+899,899,"Escalate unresolved complaints; offer short-term discount.",Urgent
+900,900,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+901,901,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+902,902,"Targeted engagement campaign; personalized plan recommendation.",Medium
+903,903,"Send personalized offers and recommend new plans to boost engagement.",Medium
+904,904,"Maintain loyalty program benefits; offer referral incentives.",Low
+905,905,"Send engagement notifications and highlight underused features.",Medium
+906,906,"Send appreciation message and exclusive early-access offers.",Low
+907,907,"Send engagement notifications and highlight underused features.",Medium
+908,908,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+909,909,"Maintain loyalty program benefits; offer referral incentives.",Low
+910,910,"Send appreciation message and exclusive early-access offers.",Low
+911,911,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+912,912,"Send engagement notifications and highlight underused features.",Medium
+913,913,"Send appreciation message and exclusive early-access offers.",Low
+914,914,"Escalate unresolved complaints; offer short-term discount.",Urgent
+915,915,"Maintain loyalty program benefits; offer referral incentives.",Low
+916,916,"Send engagement notifications and highlight underused features.",Medium
+917,917,"Maintain loyalty program benefits; offer referral incentives.",Low
+918,918,"Send appreciation message and exclusive early-access offers.",Low
+919,919,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+920,920,"Maintain loyalty program benefits; offer referral incentives.",Low
+921,921,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+922,922,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+923,923,"Maintain loyalty program benefits; offer referral incentives.",Low
+924,924,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+925,925,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+926,926,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+927,927,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+928,928,"Send engagement notifications and highlight underused features.",Medium
+929,929,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+930,930,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+931,931,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+932,932,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+933,933,"Continue loyalty rewards and offer premium membership benefits.",Low
+934,934,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+935,935,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+936,936,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+937,937,"Increase touchpoints via app notifications and email offers.",Medium
+938,938,"Targeted engagement campaign; personalized plan recommendation.",Medium
+939,939,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+940,940,"Continue loyalty rewards and offer premium membership benefits.",Low
+941,941,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+942,942,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+943,943,"Increase touchpoints via app notifications and email offers.",Medium
+944,944,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+945,945,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+946,946,"Targeted engagement campaign; personalized plan recommendation.",Medium
+947,947,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+948,948,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+949,949,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+950,950,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+951,951,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+952,952,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+953,953,"Targeted engagement campaign; personalized plan recommendation.",Medium
+954,954,"Immediate callback from retention team; waive pending charges; offer plan downgrade option.",Urgent
+955,955,"Maintain loyalty program benefits; offer referral incentives.",Low
+956,956,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+957,957,"Continue loyalty rewards and offer premium membership benefits.",Low
+958,958,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+959,959,"Send engagement notifications and highlight underused features.",Medium
+960,960,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+961,961,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+962,962,"Maintain loyalty program benefits; offer referral incentives.",Low
+963,963,"Increase touchpoints via app notifications and email offers.",Medium
+964,964,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+965,965,"Continue loyalty rewards and offer premium membership benefits.",Low
+966,966,"Send appreciation message and exclusive early-access offers.",Low
+967,967,"Escalate unresolved complaints; offer short-term discount.",Urgent
+968,968,"Targeted engagement campaign; personalized plan recommendation.",Medium
+969,969,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+970,970,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+971,971,"Send appreciation message and exclusive early-access offers.",Low
+972,972,"Maintain loyalty program benefits; offer referral incentives.",Low
+973,973,"Escalate unresolved complaints; offer short-term discount.",Urgent
+974,974,"Urgent outreach within 24 hours; free upgrade offer; dedicated helpline.",Urgent
+975,975,"Escalate unresolved complaints; offer short-term discount.",Urgent
+976,976,"Send thank-you rewards; offer premium content access.",Low
+977,977,"Increase touchpoints via app notifications and email offers.",Medium
+978,978,"Send appreciation message and exclusive early-access offers.",Low
+979,979,"Send personalized offers and recommend new plans to boost engagement.",Medium
+980,980,"Assign dedicated support executive; offer loyalty discount; resolve complaints within 24 hours.",Urgent
+981,981,"Increase touchpoints via app notifications and email offers.",Medium
+982,982,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+983,983,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+984,984,"Send engagement notifications and highlight underused features.",Medium
+985,985,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+986,986,"Send thank-you rewards; offer premium content access.",Low
+987,987,"Continue loyalty rewards and offer premium membership benefits.",Low
+988,988,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+989,989,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+990,990,"Continue loyalty rewards and offer premium membership benefits.",Low
+991,991,"Send appreciation message and exclusive early-access offers.",Low
+992,992,"Increase touchpoints via app notifications and email offers.",Medium
+993,993,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+994,994,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+995,995,"Recognize as top-tier customer; invite to exclusive loyalty events.",Low
+996,996,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+997,997,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
+998,998,"Escalate unresolved complaints; offer short-term discount.",Urgent
+999,999,"Maintain loyalty program benefits; offer referral incentives.",Low
+1000,1000,"Increase touchpoints via app notifications and email offers.",Medium
+1001,1001,"Proactive check-in call; recommend add-on services matching usage pattern.",Medium
+1002,1002,"Send thank-you rewards; offer premium content access.",Low
+1003,1003,"Send thank-you rewards; offer premium content access.",Low
+1004,1004,"Dedicated retention specialist; immediate resolution of open tickets.",Urgent
+1005,1005,"Send personalized offers and recommend new plans to boost engagement.",Medium
+1006,1006,"Maintain loyalty program benefits; offer referral incentives.",Low
+1007,1007,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+1008,1008,"Send thank-you rewards; offer premium content access.",Low
+1009,1009,"Send appreciation message and exclusive early-access offers.",Low
+1010,1010,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+1011,1011,"Send thank-you rewards; offer premium content access.",Low
+1012,1012,"Offer bundled services; send satisfaction survey to identify pain points.",Medium
+1013,1013,"Send personalized offers and recommend new plans to boost engagement.",Medium
+1014,1014,"Increase touchpoints via app notifications and email offers.",Medium
+1015,1015,"Send engagement notifications and highlight underused features.",Medium
+1016,1016,"Escalate to senior support; provide compensation for repeated complaints.",Urgent
+1017,1017,"Continue loyalty rewards and offer premium membership benefits.",Low
+1018,1018,"Send appreciation message and exclusive early-access offers.",Low
+1019,1019,"Fast-track complaint resolution; offer temporary bill credit.",Urgent
+1020,1020,"Priority complaint resolution; assign account manager; offer discount voucher.",Urgent
