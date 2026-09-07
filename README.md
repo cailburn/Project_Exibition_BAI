@@ -56,7 +56,7 @@ In subscription-based and service-oriented industries, acquiring a new customer 
 ## 🚀 Local Installation & Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/churn-prediction-system.git
+git clone https://github.com/cailburn/churn-prediction-system.git
 cd churn-prediction-system
 ```
 
