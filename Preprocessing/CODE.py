@@ -1,29 +1,3 @@
-"""
-Customer Churn Prediction Pipeline
------------------------------------
-Merged/final version combining the modular, logged, cross-validated + SHAP
-pipeline with the more explicit column bookkeeping and feature-importance
-sanity check.
-
-Design notes (why things are done this way):
-- The CSV is read ONCE. customer_id is split off before modeling and carried
-  through train_test_split as its own array, so predictions can be mapped
-  back to customers without a second read of the file or relying on pandas
-  index alignment.
-- Preprocessing (scaling + one-hot encoding) lives inside a single
-  ColumnTransformer, wrapped in a Pipeline with the model. Fitting only ever
-  happens on X_train (via pipeline.fit), so no test-set statistics leak into
-  the scaler/encoder. Only ONE artifact (`churn_rf_pipeline.pkl`) needs to be
-  saved and loaded later — no separate scaler.pkl to keep in sync.
-- Categorical columns are named explicitly (CATEGORICAL_COLS) rather than
-  auto-detected by dtype, so a stray string column can't silently get
-  one-hot-encoded (or a numeric-looking category silently get scaled).
-- Feature importances (fast) are printed as a cheap sanity check; SHAP
-  (slower) is run separately, on a capped sample, for a deeper explanation.
-- Every step is its own function so pieces can be reused/tested in isolation,
-  e.g. `from churn_pipeline_final import build_preprocessor`.
-"""
-
 from __future__ import annotations
 
 import logging
