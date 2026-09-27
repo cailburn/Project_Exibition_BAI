@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 from dotenv import load_dotenv
+from sqlalchemy.engine import URL
 
 # Base backend directory
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -45,9 +46,15 @@ class Config:
         # Default to MySQL
         SQLALCHEMY_DATABASE_URI = os.getenv(
             "DATABASE_URL",
-            f"mysql+pymysql://{MYSQL_USER}:{MYSQL_PASSWORD}@{MYSQL_HOST}:{MYSQL_PORT}/{MYSQL_DB}"
+            URL.create(
+                "mysql+pymysql",
+                username=MYSQL_USER,
+                password=MYSQL_PASSWORD,
+                host=MYSQL_HOST,
+                port=int(MYSQL_PORT),
+                database=MYSQL_DB,
+            )
         )
-
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     # ML Model Path
