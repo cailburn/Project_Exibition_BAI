@@ -4,6 +4,7 @@ from app.routes.complaints import complaints_bp
 from app.routes.customers import customers_bp
 from app.routes.health import health_bp
 from app.routes.predict import predict_bp
+from app.routes.recommendations import recommendations_bp
 
 
 def register_routes(app):
@@ -14,6 +15,7 @@ def register_routes(app):
     app.register_blueprint(customers_bp, url_prefix="/api")
     app.register_blueprint(complaints_bp, url_prefix="/api")
     app.register_blueprint(churn_bp, url_prefix="/api")
+    app.register_blueprint(recommendations_bp, url_prefix="/api")
 
 
 
