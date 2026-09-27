@@ -61,3 +61,62 @@ def validate_prediction_payload(data: Any) -> Tuple[bool, Optional[str]]:
         return False, "Field 'plan_type' must be a non-empty string"
 
     return True, None
+
+
+CUSTOMER_NUMERIC_FIELDS = [
+    "customer_expenditure",
+    "login_frequency",
+    "support_calls",
+    "complaints",
+    "tenure",
+]
+
+
+def validate_create_customer_payload(data: Any) -> Tuple[bool, Optional[str]]:
+    """
+    Validate input payload for creating a customer.
+
+    Canonical database model fields:
+      - customer_id: required, non-empty string, max 64 chars
+      - name: optional string, max 100 chars
+      - customer_expenditure: optional numeric >= 0
+      - login_frequency: optional numeric >= 0
+      - support_calls: optional numeric >= 0
+      - complaints: optional numeric >= 0
+      - tenure: optional numeric >= 0
+    """
+    if not isinstance(data, dict):
+        return False, "Request payload must be a JSON object"
+
+    # customer_id is required
+    if "customer_id" not in data:
+        return False, "Missing required field: customer_id"
+
+    customer_id = data["customer_id"]
+    if not isinstance(customer_id, str) or not customer_id.strip():
+        return False, "Field 'customer_id' must be a non-empty string"
+
+    if len(customer_id.strip()) > 64:
+        return False, "Field 'customer_id' must not exceed 64 characters"
+
+    # name is optional
+    if "name" in data and data["name"] is not None:
+        name = data["name"]
+        if not isinstance(name, str):
+            return False, "Field 'name' must be a string"
+        if len(name) > 100:
+            return False, "Field 'name' must not exceed 100 characters"
+
+    # Validate numeric fields if present
+    for field in CUSTOMER_NUMERIC_FIELDS:
+        if field in data and data[field] is not None:
+            val = data[field]
+            if isinstance(val, bool) or not isinstance(val, (int, float)):
+                return False, f"Field '{field}' must be a valid numeric value"
+            if not math.isfinite(val):
+                return False, f"Field '{field}' must be a finite number"
+            if val < 0:
+                return False, f"Field '{field}' cannot be negative"
+
+    return True, None
+
