@@ -1,5 +1,7 @@
+from datetime import datetime, timedelta
+
 from app.extensions import db
-from app.models import Customer, Prediction
+from app.models import Customer, Complaint, Prediction
 
 
 def test_get_customers_empty(client):
