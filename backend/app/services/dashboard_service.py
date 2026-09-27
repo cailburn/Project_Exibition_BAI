@@ -58,7 +58,7 @@ def get_dashboard_statistics():
     )
 
     # The query above uses prediction_id as the final tie-breaker.
-    # Build a latest prediction list using predicted_at first.
+    # Latest prediction for each customer
     latest_by_customer = {}
 
     all_predictions = (
