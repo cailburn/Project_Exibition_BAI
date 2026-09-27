@@ -1,4 +1,5 @@
 from flask import Blueprint
+from app.routes.churn import churn_bp
 from app.routes.complaints import complaints_bp
 from app.routes.customers import customers_bp
 from app.routes.health import health_bp
@@ -12,6 +13,7 @@ def register_routes(app):
     app.register_blueprint(predict_bp, url_prefix="/api")
     app.register_blueprint(customers_bp, url_prefix="/api")
     app.register_blueprint(complaints_bp, url_prefix="/api")
+    app.register_blueprint(churn_bp, url_prefix="/api")
 
 
 
