@@ -120,3 +120,77 @@ def validate_create_customer_payload(data: Any) -> Tuple[bool, Optional[str]]:
 
     return True, None
 
+
+COMPLAINT_REQUIRED_FIELDS = [
+    "complaint_id",
+    "customer_id",
+    "complaint_type",
+    "description",
+]
+
+
+def validate_create_complaint_payload(data: Any) -> Tuple[bool, Optional[str]]:
+    """
+    Validate input payload for creating a complaint.
+
+    Required fields:
+      - complaint_id: non-empty string, max 64 chars
+      - customer_id: non-empty string, max 64 chars
+      - complaint_type: non-empty string, max 100 chars
+      - description: non-empty string
+
+    Optional fields:
+      - status: if present, non-empty string, max 50 chars
+    """
+    if not isinstance(data, dict):
+        return False, "Request payload must be a JSON object"
+
+    for field in COMPLAINT_REQUIRED_FIELDS:
+        if field not in data:
+            return False, f"Missing required field: {field}"
+        val = data[field]
+        if not isinstance(val, str) or not val.strip():
+            return False, f"Field '{field}' must be a non-empty string"
+
+    if len(data["complaint_id"].strip()) > 64:
+        return False, "Field 'complaint_id' must not exceed 64 characters"
+
+    if len(data["customer_id"].strip()) > 64:
+        return False, "Field 'customer_id' must not exceed 64 characters"
+
+    if len(data["complaint_type"].strip()) > 100:
+        return False, "Field 'complaint_type' must not exceed 100 characters"
+
+    if "status" in data and data["status"] is not None:
+        status = data["status"]
+        if not isinstance(status, str) or not status.strip():
+            return False, "Field 'status' must be a non-empty string"
+        if len(status.strip()) > 50:
+            return False, "Field 'status' must not exceed 50 characters"
+
+    return True, None
+
+
+def validate_update_complaint_status_payload(data: Any) -> Tuple[bool, Optional[str]]:
+    """
+    Validate input payload for updating complaint status.
+
+    Required:
+      - status: non-empty string, max 50 chars
+    """
+    if not isinstance(data, dict):
+        return False, "Request payload must be a JSON object"
+
+    if "status" not in data:
+        return False, "Missing required field: status"
+
+    status = data["status"]
+    if not isinstance(status, str) or not status.strip():
+        return False, "Field 'status' must be a non-empty string"
+
+    if len(status.strip()) > 50:
+        return False, "Field 'status' must not exceed 50 characters"
+
+    return True, None
+
+
