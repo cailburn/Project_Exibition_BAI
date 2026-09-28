@@ -44,16 +44,13 @@ class Config:
         )
     else:
         # Default to MySQL
-        SQLALCHEMY_DATABASE_URI = os.getenv(
-            "DATABASE_URL",
-            URL.create(
-                "mysql+pymysql",
-                username=MYSQL_USER,
-                password=MYSQL_PASSWORD,
-                host=MYSQL_HOST,
-                port=int(MYSQL_PORT),
-                database=MYSQL_DB,
-            )
+        SQLALCHEMY_DATABASE_URI = URL.create(
+            "mysql+pymysql",
+            username=MYSQL_USER,
+            password=MYSQL_PASSWORD,
+            host=MYSQL_HOST,
+            port=int(MYSQL_PORT),
+            database=MYSQL_DB,
         )
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
