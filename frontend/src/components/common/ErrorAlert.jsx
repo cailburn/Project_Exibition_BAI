@@ -9,7 +9,7 @@ export default function ErrorAlert({ message, onRetry }) {
         </div>
         <div className="flex-1">
           <h3 className="text-base font-semibold text-rose-950">
-            Unable to Load Dashboard Data
+            Unable to Load Data
           </h3>
           <p className="text-sm text-rose-800 mt-1">
             {message || 'A network error occurred while communicating with the backend API service.'}
